@@ -1,5 +1,8 @@
 # Assignment 1 – Software Security and Fuzzing
 
+> A hands-on software security project demonstrating fuzzing, vulnerability discovery, and patching using AFL++ and Docker.
+
+
 ## Overview
 This repository contains the submission for Assignment 1 of the Software Security and Fuzzing module.
 The goal of this project is to demonstrate how automatically generated code can introduce security
